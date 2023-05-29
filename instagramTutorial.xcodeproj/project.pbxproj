@@ -14,6 +14,7 @@
 		4E81FC292A251FF600D5716E /* instagramTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC282A251FF600D5716E /* instagramTutorialTests.swift */; };
 		4E81FC332A251FF600D5716E /* instagramTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC322A251FF600D5716E /* instagramTutorialUITests.swift */; };
 		4E81FC352A251FF600D5716E /* instagramTutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC342A251FF600D5716E /* instagramTutorialUITestsLaunchTests.swift */; };
+		4E81FC4E2A2521BD00D5716E /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC4D2A2521BD00D5716E /* MainTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		4E81FC2E2A251FF600D5716E /* instagramTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = instagramTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E81FC322A251FF600D5716E /* instagramTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instagramTutorialUITests.swift; sourceTree = "<group>"; };
 		4E81FC342A251FF600D5716E /* instagramTutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instagramTutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4E81FC4D2A2521BD00D5716E /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,6 +214,7 @@
 		4E81FC4B2A2520AB00D5716E /* TabBar */ = {
 			isa = PBXGroup;
 			children = (
+				4E81FC4D2A2521BD00D5716E /* MainTabView.swift */,
 			);
 			path = TabBar;
 			sourceTree = "<group>";
@@ -355,6 +358,7 @@
 			files = (
 				4E81FC1A2A251FF500D5716E /* ContentView.swift in Sources */,
 				4E81FC182A251FF500D5716E /* instagramTutorialApp.swift in Sources */,
+				4E81FC4E2A2521BD00D5716E /* MainTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
