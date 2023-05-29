@@ -15,6 +15,7 @@
 		4E81FC332A251FF600D5716E /* instagramTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC322A251FF600D5716E /* instagramTutorialUITests.swift */; };
 		4E81FC352A251FF600D5716E /* instagramTutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC342A251FF600D5716E /* instagramTutorialUITestsLaunchTests.swift */; };
 		4E81FC4E2A2521BD00D5716E /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC4D2A2521BD00D5716E /* MainTabView.swift */; };
+		4E81FC502A25236F00D5716E /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E81FC4F2A25236F00D5716E /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4E81FC322A251FF600D5716E /* instagramTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instagramTutorialUITests.swift; sourceTree = "<group>"; };
 		4E81FC342A251FF600D5716E /* instagramTutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instagramTutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4E81FC4D2A2521BD00D5716E /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		4E81FC4F2A25236F00D5716E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 		4E81FC482A25205C00D5716E /* Profile */ = {
 			isa = PBXGroup;
 			children = (
+				4E81FC4F2A25236F00D5716E /* ProfileView.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -356,6 +359,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E81FC502A25236F00D5716E /* ProfileView.swift in Sources */,
 				4E81FC1A2A251FF500D5716E /* ContentView.swift in Sources */,
 				4E81FC182A251FF500D5716E /* instagramTutorialApp.swift in Sources */,
 				4E81FC4E2A2521BD00D5716E /* MainTabView.swift in Sources */,
